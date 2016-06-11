@@ -1,9 +1,9 @@
 import Horizon from '@horizon/client';
 
-const hz = Horizon({
+const horizon = Horizon({
   secure: false
 });
 
-hz.connect();
+horizon.connect();
 
-export default hz;
+export default horizon;

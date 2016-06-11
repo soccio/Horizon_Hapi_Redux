@@ -1,7 +1,7 @@
 import React from 'react';
 import {Route, IndexRoute} from 'react-router';
-import App from './common/components/app';
-import MyTodos from './common/components/mytodos';
+import App from './components/App';
+import MyTodos from './components/mytodos';
 
 
 export default (

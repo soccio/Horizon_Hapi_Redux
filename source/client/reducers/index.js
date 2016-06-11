@@ -1,4 +1,4 @@
-import TodoReducer from '../../hr/reducers/todo_reducer';
+import TodoReducer from './todo_reducer';
 import { combineReducers } from 'redux';
 import { routerReducer } from 'react-router-redux';
 
