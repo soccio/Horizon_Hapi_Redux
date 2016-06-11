@@ -11,7 +11,7 @@ module.exports = {
   target: 'node',
   context: __dirname,
   cache: true,
-  entry: path.join(basePath, '/server/entry.server'),
+  entry: path.join(basePath, '/server/server'),
   output: {
     path: buildPath,
     filename: 'server.bundle.js',
