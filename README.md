@@ -1,5 +1,5 @@
 
-Based on **Demo:** [lovli.neschkudla.at](http://lovli.neschkudla.at/)
+Based on **Demo:** [github.com/flipace/lovli.js](https://github.com/flipace/lovli.js)
 
 ### Stack
 
@@ -30,11 +30,7 @@ $ node .build/server.bundle.js # starts server (after you built with npm run bui
 This will start a server listening on port ```3000```.
 *You can change the port in* ```config/page.js``` *or by setting the ```PORT``` environment variable*.
 
-### Configure horizon
-If you want to configure the props for the horizon client, you can do that
-by passing a configuration object as the first parameter to ```HorizonConnector()``` in ```source/client/containers/Root.js``` and the target element as the second parameter.
 
-The props you provide there will be passed to ```horizon()```.
 
 ### FAQ
 
