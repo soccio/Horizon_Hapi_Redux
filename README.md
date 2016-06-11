@@ -1,5 +1,5 @@
 
-Based on **Demo:** [github.com/flipace/lovli.js](https://github.com/flipace/lovli.js)
+Based on **Project:** [github.com/flipace/lovli.js](https://github.com/flipace/lovli.js)
 
 ### Stack
 
